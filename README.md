@@ -86,6 +86,18 @@
 * `slug`需要作为链接id使用，特别是在独立页面
 * 独立页面的`slug`是和`main.js`中的api写死对应，所以不要单独修改独立页的`slug`
 
+前端API，
+
+|标题|slug|前端写死的请求|
+|:-:|:-:|:-:|
+|主页|home|home|
+|关于|about|about|
+|新闻中心|news|news|
+|解决方案|products|products|
+|工程案例|projects|projects|
+|招聘|recruitment|recruitment|
+|联系我们|contact|contact|
+
 ### 1. 使用说明
 
 在独立页面中有两个（应该是三个）变量，
