@@ -1,0 +1,11 @@
+{
+	"type": "html",
+	"data": "data/news/news.html",
+    "banner": {
+        "title": "请多多关注我们！",
+        "img": "./images/beauty-slide-1.jpg"
+    },
+    "css": {
+        "links": ["./data/news/news.css"]
+    }
+}

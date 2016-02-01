@@ -1,0 +1,16 @@
+{
+	"type": "html",
+	"data": "data/projects/projects.html",
+    "banner": {
+        "title": "我们以前做过的项目，请您参考！",
+        "img": "./images/beauty-slide-1.jpg"
+    },
+    "js": {
+        "scripts": ["assert/js/isotope.pkgd.min.js"],
+        "code": "jsloader.a('./data/projects/projects.js')"
+    },
+    "css": {
+        "style": "",
+        "links": ["./data/projects/projects.css"]
+    }
+}

@@ -1,0 +1,16 @@
+{
+	"type": "html",
+	"data": "data/about/about.html",
+    "banner": {
+        "title": "我们很年轻...",
+        "img": "./images/beauty-slide-2.jpg"
+    },
+    "js": {
+        "scripts": [],
+        "code": "jsloader.a('./data/about/about.js')"
+    },
+    "css": {
+        "links": ["./data/about/about.css"],
+        "style": ""
+    }
+}

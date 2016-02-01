@@ -1,0 +1,12 @@
+{
+	"type": "html",
+	"data": "data/home/home.html",
+    "js": {
+        "scripts": [],
+        "code": "jsloader.a('./data/home/home.js')"
+    },
+    "css": {
+        "links": ["./data/home/home.css"],
+        "style": ""
+    }
+}

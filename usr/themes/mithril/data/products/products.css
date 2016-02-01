@@ -1,0 +1,44 @@
+.products {
+
+}
+
+.products-item {
+    text-align: right;
+    margin: 0 2rem;
+}
+
+.products-item h3 i {
+    padding: 0 1rem;
+}
+
+.products-item h3 {
+    text-align: right;
+}
+
+.products-item.right,  .products-item.right h3{
+    text-align: left;
+}
+
+.products .products-img img {
+    width: 100%;
+}
+
+.products .products-text {
+    text-align: center;
+    font-size: 1.5rem;
+    color: #000;
+    font-weight: bold;
+    position: absolute;
+    width: 100%;
+    height: 3.5rem;
+    bottom: 1.5rem;
+    margin-left: -1.5rem;
+    margin-top: -2rem;
+    line-height: 3.2rem;
+    background: rgba(255, 255, 255, 0.6);
+
+}
+
+.products-title-2 {
+    margin-top: 1rem;
+}

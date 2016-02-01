@@ -1,0 +1,21 @@
+{
+	"type": "html",
+	"data": "data/contact/contact.html",
+    "banner": {
+        "title": "有任何问题请您联系我们！",
+        "img": "./images/111.jpg"
+    },
+    "js": {
+        "scripts": [
+            "http://api.map.baidu.com/getscript?v=2.0&ak=gTs6XwOhFSVK1rgEXVc9mVix&services=&t=20160121161406"
+        ],
+        "code": "jsloader.a('http://api.map.baidu.com/library/SearchInfoWindow/1.5/src/SearchInfoWindow_min.js', function(){jsloader.a('./data/contact/contact.js', function(){})})"
+    },
+    "css": {
+        "links": [
+            "./data/contact/contact.css",
+            "http://api.map.baidu.com/library/SearchInfoWindow/1.5/src/SearchInfoWindow_min.css",
+            "http://api.map.baidu.com/res/20/bmap_autocomplete.css"
+        ]
+    }
+}

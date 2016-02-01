@@ -1,0 +1,11 @@
+{
+	"type": "html",
+	"data": "data/products/products.html",
+    "banner": {
+        "title": "我们所能够胜任的一些东西...",
+        "img": "./images/beauty-slide-3.jpg"
+    },
+    "css": {
+        "links": ["./data/products/products.css"]
+    }
+}

@@ -1,0 +1,7 @@
+{
+	"type": "html",
+	"data": "data/recruitment/recruitment.html",
+    "css": {
+        "links": ["./data/recruitment/recruitment.css"]
+    }
+}

@@ -1,0 +1,84 @@
+{
+	"type": "json",
+	"data":	{
+		"menu": [
+			{
+				"url": "/",
+				"content": {
+					"title": "主页",
+					"child": []
+				}
+			},
+			{
+				"url": "/about",
+				"content": {
+					"title": "关于我们",
+					"child": []
+				}
+			},
+			{
+				"url": "/news/all",
+				"content": {
+					"title": "新闻",
+					"child": [
+						{
+							"url": "/news/conpany",
+							"content": {
+								"title": "公司",
+								"child": []
+							}
+						},
+						{
+							"url": "/news/industry",
+							"content": {
+								"title": "行业",
+								"child": []
+							}
+						}			
+					]
+				}
+			},
+			{
+				"url": "/products",
+				"content": {
+					"title": "解决方案",
+					"child": [
+						{
+							"url": "/products/1",
+							"content": {
+								"title": "1111"
+							}
+						},
+						{
+							"url": "/products/1",
+							"content": {
+								"title": "22222"
+							}
+						}
+					]
+				}
+			},
+			{
+				"url": "/projects",
+				"content": {
+					"title": "案例",
+					"child": []
+				}
+			},
+			{
+				"url": "/recruitment",
+				"content": {
+					"title": "招聘",
+					"child": []
+				}
+			},
+			{
+				"url": "/contact",
+				"content": {
+					"title": "联系我们",
+					"child": []
+				}
+			}
+		]
+	}
+}
